@@ -1,2 +1,2 @@
-# flashcard_app
+# Flashcard app
 Flashcard application
